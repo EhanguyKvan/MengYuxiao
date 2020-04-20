@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+.h {
+	align-content: left;
+	font-family: "隶书";
+	font-size: 20px;		
+	font-weight: 900;
+	color: skyblue;
+}
+.p {
+	align-content: left;
+	font-family: "微软雅黑";
+	font-size: 15px;
+	color: black;
+}
+span.w_twoline {
+	text-decoration: underline;
+	font-style: italic;
+	color: red;
+}
+a:link {text-decoration: none}
+a:visited {text-decoration: none}
+a:hover {text-decoration: underline}
+a:active {text-decoration: underline}
+
+body {background-color: silver}
+h1 {text-align: center;
+	font-size: 50px;
+	font-weight: bolder;
+	color: greenyellow;
+	font-family: "隶书";
+}
+h4 {text-align: center;font-size: 20px; color: darkgoldenrod}
+p {text-indent: 2em}
